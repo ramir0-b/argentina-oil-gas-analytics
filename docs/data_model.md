@@ -1,4 +1,5 @@
 # Data Model
+```text
 fact_production
       │
       ▼
@@ -8,6 +9,7 @@ dim_well
       ├── dim_province
       ├── dim_basin
       └── dim_resource
+```
 
 ## Granularity
 One record per well per month.
